@@ -19,7 +19,7 @@
 
 ![Capture d’écran (59)](https://user-images.githubusercontent.com/107006944/233152183-e330a77a-6888-4c42-ad00-ed24fb48bdac.png)
 
-6/L'affichage d'un message de confirmation pour valider la suppression du patient Hassan avec L'id 1.
+6/L'affichage d'un message de confirmation pour valider la suppression du patient Yasmine avec L'id 1.
 
 ![Capture d’écran (60)](https://user-images.githubusercontent.com/107006944/233153929-23584358-15b3-41ae-897f-068b258857c8.png)
 
@@ -37,14 +37,17 @@
 
 ![Capture d’écran (63)](https://user-images.githubusercontent.com/107006944/233154232-3caa8828-0425-45b9-b1c9-989cad3da871.png)
 
-10/Vérification d'ajout de l'utilisateur Said Nid Messaoud par la recherche.
+10/Vérification d'ajout de l'utilisateur BADR AIT HERROUpar la recherche.
 
 ![Capture d’écran (64)](https://user-images.githubusercontent.com/107006944/233154290-f39e1abd-518d-4079-a6ca-9af95cb2c5ba.png)
 
 11/l'ajout du patient nom: "YOUSSEF AIT HERROU".
 
-![Capture d’écran (65)](https://user-images.githubusercontent.com/107006944/233154444-6e46a822-28f8-42ee-a092-e0c5bf3bd842.png)
+![Capture d’écran (67)](https://user-images.githubusercontent.com/107006944/233155417-30a430d4-e431-4bfa-bd4c-9c952e913e64.png)
 
+12/Patient ajouté avec succès.
+
+![Capture d’écran (65)](https://user-images.githubusercontent.com/107006944/233155510-31db7604-3212-46c3-af5c-a5ba10fd79b2.png)
 
 
 
