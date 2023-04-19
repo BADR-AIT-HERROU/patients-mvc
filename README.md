@@ -28,7 +28,7 @@
 ![Capture d’écran (61)](https://user-images.githubusercontent.com/107006944/233153983-06990729-3ae4-432b-98ef-3361a17ffb98.png)
 
 
-8/Editer le patient portant l'ID :2 en changeant le nom Hassan par "BADR AIT HERROU".
+8/Editer le patient portant l'ID :2 en changeant le nom Yassine par "BADR AIT HERROU".
 
 
 ![Capture d’écran (62)](https://user-images.githubusercontent.com/107006944/233154024-8366faa4-0a16-4a31-8ada-dbb7ff86eeb4.png)
@@ -49,8 +49,9 @@
 
 ![Capture d’écran (65)](https://user-images.githubusercontent.com/107006944/233155510-31db7604-3212-46c3-af5c-a5ba10fd79b2.png)
 
+13/La base de donnee
 
-
+![Capture d’écran (69)](https://user-images.githubusercontent.com/107006944/233158789-91bb60df-f6a6-4408-88fe-497eaed1dc87.png)
 
 
 
